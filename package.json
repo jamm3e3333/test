@@ -1,0 +1,25 @@
+{
+  "name": "test_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ref.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamm3e3333/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamm3e3333/test/issues"
+  },
+  "homepage": "https://github.com/jamm3e3333/test#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "loadash": "^1.0.0",
+    "normalize.css": "^8.0.1"
+  }
+}
