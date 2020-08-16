@@ -2,8 +2,9 @@
   "name": "test_1",
   "version": "1.0.0",
   "description": "",
-  "main": "ref.js",
+  "main": "sidenav.js",
   "scripts": {
+    "dev": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,5 +22,10 @@
     "chalk": "^4.1.0",
     "loadash": "^1.0.0",
     "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "wepack-cli": "0.0.1-security"
   }
 }
