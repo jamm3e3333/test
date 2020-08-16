@@ -1,10 +1,4 @@
-function sideO(){
-    document.getElementById("sidenav").style.width = "250px";
-}
-
-function sideC(){
-    document.getElementById("sidenav").style.width = "0px";
-}
-
-
-alert('Hi motherfucker!');
+import '../styles/button.css';
+import '../styles/divs.css';
+import '../styles/ref.css';
+import '../styles/sidenav.css';
