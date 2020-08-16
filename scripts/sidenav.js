@@ -1,4 +1,2 @@
-import '../styles/button.css';
-import '../styles/divs.css';
-import '../styles/ref.css';
-import '../styles/sidenav.css';
+import 'nomarlize.css';
+import '../styles/styles.css';
